@@ -5,7 +5,8 @@ using System.Linq;
 using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
-namespace MonopoLogic
+
+namespace Monopoly_Logic
 {
     // * <- simulating player interaction for now
     class Turn

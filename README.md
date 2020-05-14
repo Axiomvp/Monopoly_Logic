@@ -1,5 +1,5 @@
 # Monopoly_Logic
-Monopoly Logic simulation 
 
+Monopoly Logic simulation
 
- Old code from learning c#. This is a mess.
+Old code migrated to a dotnet core app.
